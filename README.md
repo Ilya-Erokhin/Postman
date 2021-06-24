@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/savcp44iovt2y42s?svg=true)](https://ci.appveyor.com/project/MarinaOliynyk/aqa-postmanecho)
